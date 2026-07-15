@@ -1,0 +1,11 @@
+2026-07-14T21:22:10 Cowrie Version 3.0.6
+2026-07-14T21:22:10 Ready to accept SSH connections
+
+2026-07-14T21:25:54 New connection: 192.168.x.x
+2026-07-14T21:26:06 login attempt [root/admin] succeeded
+2026-07-14T21:26:06 Initialized emulated server
+2026-07-14T21:26:06 Getting shell
+
+2026-07-14T21:27:36 CMD: exit
+2026-07-14T21:27:36 Closing TTY Log
+2026-07-14T21:27:36 Connection lost
